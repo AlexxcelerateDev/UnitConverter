@@ -2,7 +2,7 @@
 
 This project consists of a unit conversion application with a backend developed in Spring Boot (Kotlin) and a frontend developed in React with TypeScript.
 
-This project is inspired by the Unit Converter project idea from [roadmap.sh](https://roadmap.sh/projects/unit-converter).
+This project is inspired by the Unit Converter project idea from: https://roadmap.sh/projects/unit-converter
 
 ## Project Structure
 
